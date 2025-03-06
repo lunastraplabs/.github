@@ -10,3 +10,8 @@
 ---
 
 Lunastrap is an better fork of Bloxstrap.
+
+Try it at [lunastraplabs/lunastrap](https://github.com/lunastraplabs/lunastrap).
+
+> [!NOTE]
+> Lunastrap is for Windows PCs only, Linux & MAC is not supported.
