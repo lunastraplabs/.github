@@ -13,7 +13,6 @@ Lunastrap is a Bloxstrap fork aiming to enhance features.
 [![Workflow][badge-repo-workflow]][repo-actions]
 [![Downloads][badge-repo-downloads]][repo-releases]
 [![Version][badge-repo-latest]][repo-latest]
-[![Discord][badge-discord]][discord-invite]
 [![Stars][badge-repo-stars]][repo-stars]
 
 </div>
@@ -31,4 +30,3 @@ Lunastrap is a Bloxstrap fork aiming to enhance features.
 [repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
 [repo-latest]:   https://github.com/lunastraplabs/lunastrap/releases/latest
 [repo-stars]: https://github.com/lunastraplabs/lunastrap/stargazers
-[discord-invite]: https://discord.gg/YnZkKmUCuJ
