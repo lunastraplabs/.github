@@ -1,18 +1,20 @@
-<div align="center">
-  <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
-  <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
-</div>
+> [!CAUTION]
+> This is the only official place to install Lunastrap. Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
+
+<p align="center">
+    <img src="https://github.com/lunastraplabs/lunastrap/raw/main/Images/Bloxstrap-full-dark.png" width="700">
+</p>
 
 <div align="center">
 
-![Lunastrap Preview](https://i.imgur.com/dohmTWP.png)
+**Lunastrap** is a Bloxstrap fork aiming to enhance features.
 
-Lunastrap is a Bloxstrap fork aiming to enhance features.
+Found any bugs? [Submit an issue](https://github.com/Meddsam/Froststrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/KdR9vpRcUN).
 
 [![License][badge-repo-license]][repo-license]
-[![Workflow][badge-repo-workflow]][repo-actions]
 [![Downloads][badge-repo-downloads]][repo-releases]
 [![Version][badge-repo-latest]][repo-latest]
+[![Discord][badge-discord]][discord-invite]
 [![Stars][badge-repo-stars]][repo-stars]
 
 </div>
@@ -30,3 +32,4 @@ Lunastrap is a Bloxstrap fork aiming to enhance features.
 [repo-releases]: https://github.com/lunastraplabs/lunastrap/releases
 [repo-latest]:   https://github.com/lunastraplabs/lunastrap/releases/latest
 [repo-stars]: https://github.com/lunastraplabs/lunastrap/stargazers
+[discord-invite]: https://discord.gg/YnZkKmUCuJ
